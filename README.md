@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**hopeliz/hopeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hope - I'm an interactive media artist and full-stack developer. I create and work on random projects, most of them with an interactive history focus.
 
-Here are some ideas to get you started:
+Check out my [website](https://www.hopemoore.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql,unity,arduino,processing,cs,java,wordpress,androidstudio,p5js)](https://skillicons.dev)
+
+### Design
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd)](https://skillicons.dev)
+
+### 3D Modeling and Animation
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal)](https://skillicons.dev)
+
+### Media Production
+[![My Skills](https://skillicons.dev/icons?i=premiere,aftereffects,audition)](https://skillicons.dev)
