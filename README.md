@@ -5,7 +5,7 @@ I'm Hope - I'm an interactive media artist and full-stack developer. I create an
 Check out my [website](https://www.hopemoore.com).
 
 ### Programming
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql,unity,arduino,processing,cs,java,wordpress,androidstudio,p5js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,python,php,mysql,unity,arduino,processing,cs,java,wordpress,androidstudio,p5js)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd)](https://skillicons.dev)
