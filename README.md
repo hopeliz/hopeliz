@@ -11,7 +11,7 @@ Check out my [website](https://www.hopemoore.com).
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,xd)](https://skillicons.dev)
 
 ### 3D Modeling and Animation
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,sketchup,unity,unreal)](https://skillicons.dev)
 
 ### Media Production
 [![My Skills](https://skillicons.dev/icons?i=premiere,aftereffects,audition)](https://skillicons.dev)
